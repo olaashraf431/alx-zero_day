@@ -1,4 +1,4 @@
 My first readme
-html 
-css
-js
+html => hyper text markup language
+css => cascading style sheet
+js => java script
